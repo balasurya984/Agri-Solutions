@@ -1,0 +1,26 @@
+.me-auto{
+    font-size:20px;
+    font-weight: bolder;
+    font-family: 'Lobster', cursive;
+    padding: 15px;
+    vertical-align: middle;
+}
+.link
+{
+    
+    display: flex;
+    justify-content:center;
+    text-decoration: none;
+    width:max-content;
+    color:whitesmoke;
+    padding-left: 50px;
+}
+.link:hover
+{
+    color: rgb(134, 130, 130);
+}
+
+.nav11
+{
+    padding-left: 200px;
+}
